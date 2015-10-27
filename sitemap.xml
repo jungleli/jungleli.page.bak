@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jungleli.github.io/tags/index.html</loc>
+    <lastmod>2015-10-27T13:58:52.126Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jungleli.github.io/2015/10/27/test-paper1/</loc>
+    <lastmod>2015-10-27T13:47:59.927Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jungleli.github.io/2015/10/26/new-paper/</loc>
     <lastmod>2015-10-27T08:26:30.825Z</lastmod>
   </url>

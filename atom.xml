@@ -4,7 +4,7 @@
   <subtitle><![CDATA[jungle's blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jungleli.github.io/"/>
-  <updated>2015-10-27T08:26:30.825Z</updated>
+  <updated>2015-10-27T13:47:59.927Z</updated>
   <id>http://jungleli.github.io/</id>
   
   <author>
@@ -13,6 +13,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[test paper1]]></title>
+    <link href="http://jungleli.github.io/2015/10/27/test-paper1/"/>
+    <id>http://jungleli.github.io/2015/10/27/test-paper1/</id>
+    <published>2015-10-27T13:46:29.000Z</published>
+    <updated>2015-10-27T13:47:59.927Z</updated>
+    <content type="html"><![CDATA[<p>##admin </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>##admin </p>
+]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[new paper]]></title>
