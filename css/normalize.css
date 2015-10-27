@@ -425,3 +425,20 @@ td,
 th {
   padding: 0;
 }
+
+/* �ı���������������ɫ */
+.tinysou-widget .autocomplete ul li p.title {
+  color: black;
+}
+/* �ı�ѡ�е����������ı��� */
+.tinysou-widget .autocomplete ul li.active {
+  background: none;
+  background-color: red;
+  border-top: 1px solid darkred;
+  border-bottom: 1px solid darkred;
+  -webkit-box-shadow: 0 1px 0 darkred inset;
+}
+/* �ı�section��������ɫ */
+.tinysou-widget .autocomplete ul li.active .sections em {
+  color: white;
+}
