@@ -165,6 +165,8 @@ a:focus {
     float: left;
     display: inline;
     text-indent: .15em; }
+    .post .post-meta a {
+      color: #FF5722; }
   .post .ds-thread-count {
     padding: 0;
     margin: 12px 0 0;
