@@ -6,7 +6,7 @@
  * @link http://chopstack.com
  */
 body {
-  background-color: #FFF;
+  background-color: #f5f5d5;
   color: #444;
   font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -45,9 +45,9 @@ a:focus {
   clear: both; }
 
 #header {
-  padding: 58px 0 0;
+  padding: 12px 0 0;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #FF9632;
   position: relative; }
   #header .site-name {
     margin-bottom: 40px; }
@@ -65,7 +65,7 @@ a:focus {
       margin: .2em 0 0;
       color: #999; }
   #header #nav-menu {
-    margin: 10px 0 -1px;
+    margin: 10px 0 -2px;
     padding: 0;
     position: absolute;
     right: 0;
@@ -74,14 +74,17 @@ a:focus {
       display: inline-block;
       padding: 3px 20px 3px;
       line-height: 30px;
-      color: #444;
+      color: #441843;
       font-size: 13px;
-      border: 1px solid transparent; }
+      border: 2px solid transparent; }
       #header #nav-menu a:hover {
-        border-bottom-color: #444; }
+        border-bottom-color: #3F51B5;
+        color: #ff6607;
+        font-weight: bold; }
       #header #nav-menu a.current {
-        border: 1px solid #ddd;
-        border-bottom-color: #fff; }
+        border: 2px solid #85E417;
+        font-weight: bold;
+        border-bottom-color: #f5f5d5; }
 
 #sidebar {
   border-left: 1px solid #ddd;
@@ -96,9 +99,9 @@ a:focus {
       line-height: 2.7;
       margin-top: 0;
       font-size: 16px;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid #009688;
       display: block;
-      font-weight: normal; }
+      font-weight: bold; }
     #sidebar .widget .comments-title {
       color: #6E7173;
       line-height: 2.7;
@@ -112,12 +115,20 @@ a:focus {
       #sidebar .widget .tagcloud a {
         line-height: 1.5;
         padding: 5px; }
+        #sidebar .widget .tagcloud a:hover {
+          font-weight: bold;
+          color: #ff6607; }
     #sidebar .widget ul {
       list-style: none;
       padding: 0; }
       #sidebar .widget ul li {
         margin: 5px 0;
         line-height: 1.5; }
+        #sidebar .widget ul li:hover {
+          color: blue; }
+      #sidebar .widget ul a:hover {
+        color: blue;
+        font-weight: bold; }
   #sidebar .search-form {
     position: relative;
     overflow: hidden; }
@@ -389,12 +400,13 @@ pre {
   padding-bottom: 2px;
   padding-left: 10px;
   padding-right: 10px;
-  border: 1px solid #999;
+  border: 1px solid #067D72;
   border-radius: 7px;
   float: right; }
   .readmore a:hover {
-    color: #444;
-    border-color: #444; }
+    color: #3DB2C1;
+    border-color: #444;
+    font-weight: bold; }
 
 /* Duoshuo Style*/
 #ds-thread #ds-reset {
