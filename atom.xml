@@ -4,7 +4,7 @@
   <subtitle><![CDATA[jungle's blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jungleli.github.io/"/>
-  <updated>2015-11-12T12:00:36.539Z</updated>
+  <updated>2015-11-26T14:48:32.743Z</updated>
   <id>http://jungleli.github.io/</id>
   
   <author>
@@ -15,9 +15,74 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[沟通的艺术]]></title>
+    <link href="http://jungleli.github.io/2015/11/26/4-community/"/>
+    <id>http://jungleli.github.io/2015/11/26/4-community/</id>
+    <published>2015-11-26T13:23:32.000Z</published>
+    <updated>2015-11-26T14:48:32.743Z</updated>
+    <content type="html"><![CDATA[<h1 id="沟通的艺术-课后感">沟通的艺术-课后感</h1><p>2015年11月21日，在ThoughtWorks西安办公室 听了 申彤 老师的《沟通的艺术》WorkShop。感触良多，并且林老师让我们用MarkDown这个东西来写课后感。我觉得这是一个一箭双雕的故事….<br>本文使用MarkDown语法规则完成博客，主要参考链接如下：</p>
+<ul>
+<li><a href="http://www.appinn.com/markdown/" target="_blank" rel="external">Markdown 语法说明 (简体中文版) </a></li>
+<li><a href="http://blog.csdn.net/makenothing/article/details/8619339" target="_blank" rel="external">markdown编辑器使用建议</a></li>
+<li><a href="http://sspai.com/25137" target="_blank" rel="external">认识与入门 Markdown</a></li>
+</ul>
+<hr>
+<h2 id="1-_沟通">1. 沟通</h2><p>沟通作为人生活在世界上基本的交流功能，更是在工作中不可或缺的基本技能。当然有效的沟通，正如 <em>蛇打七寸，醍醐灌顶，</em> 在任何时候、任何场景下，都往往是最有效的管理方法。</p>
+<h3 id="1-1_吐槽一下“沟通”">1.1 吐槽一下“沟通”</h3><p><strong>沟通，本是个促进交流，增进情感的事情，莫让沟通成为一种强加在别人身上的负担。</strong></p>
+<p>需要沟通的时候，那就畅快的沟通，说话，交流。如果不需要沟通的时候呢？如果还是要强硬沟通的话，就会令人不爽。有些问题无需沟通，本来就是一些铁定的规律，即便是沟通了，也是徒劳一场，最后一句“这个因为某某外在原因限制，我们暂时无法为你们提供这样的需求”，既然如此，就不要沟通了嘛！当然也有些事情，需要沟通，因为沟通可以让事情变得更好，效率更高。所以，分清楚哪些需要沟通，哪些无需沟通，也是一种艺术。是一种除了<strong>沟通</strong>以外，另一门值得深究的<strong>“艺术”</strong>。</p>
+<h2 id="2-_workshop">2. workshop</h2><h3 id="2-1_Meetting">2.1 Meetting</h3><blockquote>
+<p>Facilitator、Agenda、Prepare、Goal、Process<br>Notice、When、Who、Where、Time Box</p>
+</blockquote>
+<p>会议是一个讨论并解决问题的有效手段，但是合理的安排并主持一个会议才是成功的关键。要有一个会议的facilitator(请自行转换语言)，整体的把握会议的进度，确保会议朝着和谐的方向发展。这些关键字都很容易理解，不再重复解释。</p>
+<h3 id="2-2_Feedback">2.2 Feedback</h3><blockquote>
+<p>Feedback、 Follow Up、Frequency、Positive、Immediate<br>Safety、Consent、Against Behavior、Sincere、Specific、Direct</p>
+</blockquote>
+<p>反馈以及反馈的反馈，是有些绕呢。<br>TW一直有feedback的传统，这是很行之有效的一种方式，让我们看到自身的不足，而后改进。当然，反馈也有positive和negtive, 貌似好的反馈会让人更开心呢，其实不然，别人给予的每一条真诚的反馈意见，都会同样的让人感到欣喜。</p>
+<h3 id="2-3_Logic_in_writing">2.3 Logic in writing</h3><p>当用邮件来陈述一件事情的时候，往往不像面对面的交流，可以随时的交流见解，提出疑问。这个时候，我们就需要考虑这样一件事，如何清晰明了的通过邮件向他人传达信息。<br>上个板书：</p>
+<ol>
+<li>提出主体思想</li>
+<li>设想受众的主要疑问</li>
+<li>写序言：背景-冲突-疑问-回答</li>
+<li>与受众进行疑问/回答式对话</li>
+<li>对受众的新疑问重复进行疑问/回答式对话</li>
+</ol>
+<h2 id="3-_WorkShop课后感">3. WorkShop课后感</h2><p>有效的沟通对于管理项目团队、减少冲突以及克服项目管理在其他方面的不足之处很重要，高效的沟通能够提高工作效率，减少重复工作以及及时调整方向，避免一错再错。</p>
+<p><strong>开发团队与客户的沟通至关重要，印象最深刻的莫过于申彤老师在课堂上挖的很多坑！其中包括故意在项目中设置一些错误让我们去发现，当然，大部分问题都没有发现，即使发现了，也没有找到解决问题的办法。因为我们完全“沉浸”在自己团队的世界里，忽视了与“客户”申彤老师的交流沟通。</strong> </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="沟通的艺术-课后感">沟通的艺术-课后感</h1><p>2015年11月21日，在ThoughtWorks西安办公室 听了 申彤 老师的《沟通的艺术》WorkShop。感触良多，并且林老师让我们用MarkDown这个东西来写课后感。我觉得这是一个一箭双雕的故事….]]>
+    </summary>
+    
+      <category term="feedback" scheme="http://jungleli.github.io/tags/feedback/"/>
+    
+      <category term="markdown" scheme="http://jungleli.github.io/tags/markdown/"/>
+    
+      <category term="沟通" scheme="http://jungleli.github.io/tags/%E6%B2%9F%E9%80%9A/"/>
+    
+      <category term="记录" scheme="http://jungleli.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[秋or冬的赞歌]]></title>
+    <link href="http://jungleli.github.io/2015/11/22/3-AutumnOrWinter/"/>
+    <id>http://jungleli.github.io/2015/11/22/3-AutumnOrWinter/</id>
+    <published>2015-11-22T08:46:15.000Z</published>
+    <updated>2015-11-22T10:07:53.005Z</updated>
+    <content type="html"><![CDATA[<p>是冬，而非秋，我仍然习惯于将这样的时节称为秋。<br>每每路过那片银杏树，都有种要拍照的冲动，终于有一次举起了手机，却因屏幕上映射不出那样的感觉而作罢。又一次路过，心中竟有了些许伤感，甚至于都没有了要留下这样的映像的冲动。要是为地上的那片金灿灿还是为树上黄亮亮？ 恰好看到群里有人发了张大片银杏落叶的照片。盗图一张。<br><img src="/images/ginkgo.jpg" alt="落叶"><br>从来没有想过轻而易举的获取过什么，坚持把《少有人走的路》读完，其实是想发现自己内心隐藏的东西，是想让自己更明朗些。终究没有，只是更加的认可了人本来就是要受苦的，我们逆着自然规律进化，我们不顺从本身固有的惰性做事，我们坚持要走出自己的舒适区，这本身就是无可厚非的。我能感受到自己一点一滴的变化，从浅薄的任性到逐渐的忍耐，我为自己这样的变化而开心，我知道自己是可以承担更多事情的。在这样写的时候，自己竟会忍不住的哭泣。自己一直都是不温不火的性子，不热情不冷漠，不放纵自己，也不强迫自己，我会自律，只因为是自己内心的认知在主导着我的行为。每个人都是有自己的故事的，我们的周围从来不乏精彩or悲伤的故事，是应该给自己的故事加一个时效期的，过了时效期，就让它翻过去。<br>挣扎是无用的，怨天尤人也是无用的。以前很少有后悔的感觉，因为没有对别人造成不可逆转的伤害。可是随着慢慢的长大，这种感觉也变得强烈了，我偶尔会假设，假设另外一种生活的场景。不争不抢不作为，就可以让自己更安心吗？没有免费的午餐，没有轻而易举的成功，我只想靠自己的努力让生活过得更好一些，让自己可以成为别人的依赖。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>是冬，而非秋，我仍然习惯于将这样的时节称为秋。<br>每每路过那片银杏树，都有种要拍照的冲动，终于有一次举起了手机，却因屏幕上映射不出那样的感觉而作罢。又一次路过，心中竟有了些许伤感，甚至于都没有了要留下这样的映像的冲动。要是为地上的那片金灿灿还是为树上黄亮亮？ 恰好看到群]]>
+    </summary>
+    
+      <category term="随笔" scheme="http://jungleli.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[懒惰与恐惧]]></title>
-    <link href="http://jungleli.github.io/2015/11/12/%E6%87%92%E6%83%B0%E4%B8%8E%E6%81%90%E6%83%A7/"/>
-    <id>http://jungleli.github.io/2015/11/12/懒惰与恐惧/</id>
+    <link href="http://jungleli.github.io/2015/11/12/2-lazyAndFear/"/>
+    <id>http://jungleli.github.io/2015/11/12/2-lazyAndFear/</id>
     <published>2015-11-12T10:41:45.000Z</published>
     <updated>2015-11-12T12:00:36.539Z</updated>
     <content type="html"><![CDATA[<p>读了一篇文章，《熵与原罪》，是Scott peck的《少有人走的路》一书中的。<br>文章中说:</p>
@@ -54,8 +119,8 @@
   
   <entry>
     <title><![CDATA[待完善]]></title>
-    <link href="http://jungleli.github.io/2015/10/28/untitled-1446027465529/"/>
-    <id>http://jungleli.github.io/2015/10/28/untitled-1446027465529/</id>
+    <link href="http://jungleli.github.io/2015/10/28/1-untitled-1446027465529/"/>
+    <id>http://jungleli.github.io/2015/10/28/1-untitled-1446027465529/</id>
     <published>2015-10-28T10:17:45.000Z</published>
     <updated>2015-10-28T10:24:58.788Z</updated>
     <content type="html"><![CDATA[<h2 id="博客待完善内容列表">博客待完善内容列表</h2><ol>
